@@ -1,0 +1,10 @@
+# Unity generated folders
+Flappy_Bird/Library/
+Flappy_Bird/Logs/
+Flappy_Bird/Temp/
+Flappy_Bird/obj/
+Flappy_Bird/.vs/
+Flappy_Bird/UserSettings/
+
+# OS / editor noise
+Flappy_Bird/desktop.ini
