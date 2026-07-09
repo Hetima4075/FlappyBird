@@ -14,7 +14,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            rb.velocity = Vector3.up * jumpPower * Mathf.Sign(rb.velocity.y);
+            rb.velocity = Vector3.up * jumpPower*Random.Range(0f, 1f);
         }
     }
 
